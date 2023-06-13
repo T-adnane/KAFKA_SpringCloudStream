@@ -1,2 +1,8 @@
-# KAFKA_SpringCloudStream
-Systèmes Distribués Asynchrones avec FAFKA  et Spring Cloud Stream
+                                                            TOUZOUZ Adnane
+                                                            MIAAD
+                                                            SD
+                                                            TP6
+                                                            
+                                                            
+                                               
+# Télécharger Kafka et Démarrer Zookeeper avec Kafka-server:
